@@ -6,7 +6,7 @@
   "publisher": "HamzaRayeen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hamzaa-001/Ember-Flame"
+    "url": "https://github.com/hamzaa-001/Ocean-Nocturne"
   },
   "keywords": [
     "Ocean Nocturne",
@@ -21,6 +21,7 @@
     "Developer tools",
     "Calm coding"
   ],
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.91.0"
   },

@@ -1,9 +1,22 @@
 {
-  "name": "ember-flame",
-  "displayName": "Ember Flame",
-  "description": "The display theme to fire you up.",
+  "name": "ocean-nocturne",
+  "displayName": "Ocean Nocturne",
+  "description": "Dive into the tranquility of the ocean at night with the Ocean Nocturne theme. This theme combines deep, dark backgrounds with soothing oceanic hues to create a calming and focused coding environment.",
   "version": "0.0.1",
   "publisher": "HamzaRayeen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzaa-001/Ember-Flame"
+  },
+  "keywords": [
+    "ember",
+    "ember flame",
+    "flame",
+    "vs code themes",
+    "themes",
+    "dark themes",
+    "orange theme"
+  ],
   "engines": {
     "vscode": "^1.91.0"
   },

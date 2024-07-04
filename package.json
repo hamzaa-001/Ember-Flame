@@ -9,13 +9,17 @@
     "url": "https://github.com/hamzaa-001/Ember-Flame"
   },
   "keywords": [
-    "ember",
-    "ember flame",
-    "flame",
-    "vs code themes",
-    "themes",
-    "dark themes",
-    "orange theme"
+    "Ocean Nocturne",
+    "Ocean Night Theme",
+    "Dark theme",
+    "VS Code theme",
+    "Ocean colors",
+    "Midnight blue",
+    "Seafoam green",
+    "Coding theme",
+    "Programmer theme",
+    "Developer tools",
+    "Calm coding"
   ],
   "engines": {
     "vscode": "^1.91.0"
@@ -26,7 +30,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ember Flame",
+        "label": "Ocean Nocturne",
         "uiTheme": "vs-dark",
         "path": "./themes/Ember Flame-color-theme.json"
       }

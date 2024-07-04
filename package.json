@@ -1,0 +1,22 @@
+{
+  "name": "ember-flame",
+  "displayName": "Ember Flame",
+  "description": "The display theme to fire you up.",
+  "version": "0.0.1",
+  "publisher": "HamzaRayeen",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ember Flame",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ember Flame-color-theme.json"
+      }
+    ]
+  }
+}

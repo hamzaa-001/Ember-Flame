@@ -21,7 +21,7 @@
     "Developer tools",
     "Calm coding"
   ],
-  "icon": "icon.jpg",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.91.0"
   },

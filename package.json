@@ -19,11 +19,7 @@
     "Coding theme",
     "Programmer theme",
     "Developer tools",
-    "Calm coding",
-    "Minimalist theme",
-    "High contrast theme",
-    "Productivity theme",
-    "VS Code customization"
+    "Calm coding"
   ],
   "engines": {
     "vscode": "^1.91.0"
@@ -36,18 +32,8 @@
       {
         "label": "Ocean Nocturne",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ocean Nocturne-color-theme.json"
+        "path": "./themes/Ember Flame-color-theme.json"
       }
     ]
-  },
-  "icon": "./icons.icon.jpg",
-  "galleryBanner": {
-    "color": "#0D1117",
-    "theme": "dark"
-  },
-  "bugs": {
-    "url": "https://github.com/hamzaa-001/Ember-Flame/issues"
-  },
-  "homepage": "https://github.com/hamzaa-001/Ember-Flame#readme",
-  "license": "MIT"
+  }
 }
